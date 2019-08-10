@@ -1,2 +1,1 @@
-# contracts
-Contract code for Token of Humanity (ToH)
+# Contract code for Token of Humanity (ToH)
